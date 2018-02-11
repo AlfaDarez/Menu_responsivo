@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <link rel="stylesheet" href="css/header.css">
+   
     <!-- Required meta tags -->
 
     <meta charset="utf-8">
