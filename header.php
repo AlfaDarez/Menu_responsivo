@@ -68,13 +68,13 @@ i{
   margin-left: 3px;
 }
 nav{
-  background-color: #CC5A14;
+  background-color: blueviolet;
   margin-top: 30px;
   padding: inherit;
 
 }
  li:hover{
-  background-color: #DEC962;
+  background-color: cornflowerblue;
   color: #CC5A14;
   border-radius: 8px;
   cursor: pointer;
